@@ -1,20 +1,19 @@
-# 🛠️ Maya Tools by David Pazos
+# Maya Tools
 
-Welcome! This repository contains a set of Python tools I developed for Autodesk Maya to streamline rigging and technical workflows.
+A small collection of simple tools I use in Autodesk Maya for day-to-day work, mainly around attribute-related tasks and supporting workflow utilities.
 
-## 🎯 About Me
+## Included tools
 
-I’m a student focused on Rigging and Technical Art for games and animation, constantly building tools to automate and improve Maya workflows.
+- [Attribute Connection Tool](./attributeConnectionTool_v01.zip)
+- [Import Library File](./importLibraryFile_v01.zip)
+- [Proxy](./proxy_v01.zip)
 
-## 📬 Contact
+Each archive includes its own README with the relevant explanation and usage details.
 
-- 📧 davipazos3d@gmail.com  
-- 📷 [Instagram](https://www.instagram.com/davipazos3d/)  
-- 📺 [YouTube](https://www.youtube.com/@davipazos3d)  
-- 🌍 [ArtStation](https://www.artstation.com/davipazos3d)  
+## Scope
 
----
+This repository is only a small selection of utilities. My main projects are not included here.
 
-## 📊 Stats
+## License
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davipazos&show_icons=true&theme=tokyonight)
+This project is available under the [MIT License](./LICENSE).
